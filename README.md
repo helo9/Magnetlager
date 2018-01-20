@@ -1,3 +1,3 @@
 # Magnetlager
 
-A tool for calculating permanent magnetic bearings.
+A tool for calculation of permanent magnetic bearings.
